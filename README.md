@@ -14,7 +14,7 @@
   - **連接會議**:
     - 點擊join 參加會議
     - 輸入 PIN 碼 (ex: 686 273 9019)
-    - ![Hostimg2](host_meeting_2.png)
+    ![Hostimg2](host_meeting_2.png)
   - **螢幕分享** Share Screen
     - 主持人可以分享螢幕(*其他人也可以,主持人可以設定開關*) 大家可以一起觀看
     - 點擊Share Screen 共享資訊
