@@ -5,6 +5,7 @@
 **Zoom**
 
 - Download link :   [ offical download site](https://zoomnow.net/zntw_zoom_download.php?showType=ALL)
+  ![DownZOM](download_zoom.png)
 - Simple Usage (PC):
   - Register with google or some email 
   - **會議主持人** Host a Meeting :
